@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+}
+
+.header-desktop {
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    width: 80%;
+    height: 6rem;
+}
+
+.title {
+    display: flex;
+    font: 2rem bold;
+    color: red;
+}
+
+.header-desktop-link a {
+    display: flex;
+    width: 2rem;
+    font: 2rem bold;
+    color: white;
+    text-decoration: none;
+}
